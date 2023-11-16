@@ -19,3 +19,10 @@ Penulis melakukan studi pustaka dengan mengumpulkan dan mempelajari artikel-arti
 
 **Metode Penelitian Menggunakan Agile Scrum:**
 -Pemilihan Agile Development Methodology sebagai pendekatan pengembangan E-learning adaptif Bahasa Inggris di Safe-Com House menggunakan dapat didasarkan pada beberapa alasan yang mendukung kebutuhan dan karakteristik proyek tersebut
+
+**UX tampilan awal**
+![image](https://github.com/chonang/Elearning-Adaptif-untuk-Meningkatkan-Penguasaan-Bahasa-Inggris-/assets/34024629/184a7b44-1a37-4ff1-a2b8-d79abe36cd1e)
+
+![image](https://github.com/chonang/Elearning-Adaptif-untuk-Meningkatkan-Penguasaan-Bahasa-Inggris-/assets/34024629/d483d791-af0b-432f-8d0d-efcb78b11333)
+
+
